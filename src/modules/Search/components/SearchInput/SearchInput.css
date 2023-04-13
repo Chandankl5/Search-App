@@ -1,0 +1,9 @@
+.c-search-input {
+  width: 300px;
+  margin: 20px 0;
+  border-radius: 8px;
+  border: 1px solid #b4b4be;
+  color: #2d2d32;
+  font-size: 16px;
+  padding: 20px 16px;
+}
