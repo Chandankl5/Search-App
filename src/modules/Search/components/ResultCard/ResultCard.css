@@ -1,0 +1,19 @@
+.c-result-card {
+  border: 1px solid black;
+  padding: 6px;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.c-result-card > .line-item {
+  margin-top: 4px;
+}
+
+.highlighted {
+  background: lightyellow;
+}
+
+
+.line-item > .word-highlight {
+  color: blue;
+}
